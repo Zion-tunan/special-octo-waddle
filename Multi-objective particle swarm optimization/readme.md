@@ -10,4 +10,6 @@ at the moment.
 
 If you have a good reason to convince me, you can try to contact me. After all, I think this is an interesting job.
 
+![Image text](https://github.com/Zion-tunan/special-octo-waddle/blob/03804a4fd9a9e60a5dc575551ac3c6081e4920ef/IMG/GHIES-System%20flow%20diagram.jpg)
+
 --10/22/2022
